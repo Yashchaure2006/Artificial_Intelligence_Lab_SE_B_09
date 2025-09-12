@@ -1,5 +1,8 @@
 print("select the subject \n math. \n physics. \n chemistry. \n biology. \n programing. \n circuits. \n AI concept. \n statistics.")
 sub1=input ("first subjct is ")
+
+
+
 sub2=input ("second subject is " )
 
 if((sub1=="math" and sub2=="physics") or (sub1=="physics" and sub2=="math")):
